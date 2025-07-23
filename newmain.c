@@ -1,6 +1,6 @@
 /*
  * File:   newmain.c
- * Author: aryan
+ * Author: ATRI
  *
  * Created on 1 July, 2025, 1:18 PM
  */
