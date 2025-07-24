@@ -1,9 +1,5 @@
 # PIC18F4550-Embedded-codes-for-power-electronic-application
 
-# Embedded SPWM Generation using PIC18F4550
-
-This project contains source code written by **Atri Datta** for generating Sinusoidal Pulse Width Modulation (SPWM) signals using the PIC18F4550 microcontroller. It utilizes software-based triangle comparison, a sine lookup table, and a Timer0 ISR for accurate waveform synthesis.
-
 ---
 
 # Features
@@ -32,14 +28,6 @@ This project contains source code written by **Atri Datta** for generating Sinus
 This repository is **not open source**.  
 All rights are reserved by the author.
 
-You are **NOT allowed** to:
-- Use this code in academic **theses, dissertations, or journal publications**
-- Reuse or modify the code without permission
-- Include any part of it in coursework, research projects, or institutional software
-
-📩 For usage permission or collaboration, contact the author directly.
-
----
 
 # Disclaimer
 
