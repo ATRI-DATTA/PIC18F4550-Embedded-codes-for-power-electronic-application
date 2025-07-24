@@ -1,8 +1,7 @@
 /*
- * File:   newmain.c
- * Author: ATRI
- *
- * Created on 1 July, 2025, 1:18 PM
+// © 2025 Atri Datta. All rights reserved.
+// This file is protected by copyright law.
+// Created on 1 July, 2025, 1:18 PM
  */
 
 
