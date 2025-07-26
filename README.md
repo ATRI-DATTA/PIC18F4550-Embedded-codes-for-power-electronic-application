@@ -1,4 +1,4 @@
-# PIC18F4550-Embedded-codes-for-power-electronic-application
+# PIC18F4550 Embedded codes for power electronic application
 
 ---
 
